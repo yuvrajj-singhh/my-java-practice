@@ -21,7 +21,7 @@ public class calculator {
                 if (op == '+') {
                     ans = num1 + num2;
                 }
-                
+
 
                 if (op == '-') {
                     ans = num1 - num2;
